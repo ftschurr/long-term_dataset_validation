@@ -51,7 +51,7 @@ The scripts include a self-installing header for all required R packages. Ensure
 ## 🧑‍🔬 Contact & Attribution
 * **Author:** Flavian Tschurr
 * **Email:** [flavian.tschurr@usys.ethz.ch](mailto:flavian.tschurr@usys.ethz.ch)  
-* **Institution:** ETH Zürich | [Grassland Sciences Group](gl.ethz.ch)
+* **Institution:** ETH Zürich | [Grassland Sciences Group](https://gl.ethz.ch/)
 
 
 ---
