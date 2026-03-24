@@ -1,0 +1,42 @@
+﻿trial_name;treatment_name;defining_col;defining_value
+Static Fertilization Experiment;control;id_local;Var.18
+Static Fertilization Experiment;low_N;id_local;Var.6
+Static Fertilization Experiment;mid_N_1;id_local;Var.13
+Static Fertilization Experiment;high_N;id_local;Var.1
+Askov long-term experiment;control;id_local;1a
+Askov long-term experiment;low_N;id_local;8p
+Askov long-term experiment;mid_N_1;id_local;9k
+Askov long-term experiment;high_N;id_local;10r
+PROspective;control;id_local;TEM
+PROspective;mid_N;id_local;FUM
+PROspective;high_N;id_local;TEM+N
+QualiAgro;mid_N_1;id_local;TEM_N-
+QualiAgro;high_N;id_local;TEM_N+
+DFG experiment;mid_N_1;N_tot_input;176
+DFG experiment;high_N;N_tot_input;220
+Broadbalk;control;N_tot_input;0
+Broadbalk;low_N;N_tot_input;48
+Broadbalk;mid_N_1;N_tot_input;96
+Broadbalk;mid_N_2;N_tot_input;144
+Broadbalk;high_N;N_tot_input;192
+P24A;control;N_tot_input;0
+P24A;mid_N_1;N_tot_input;120
+P24A;mid_N_2;N_tot_input;160
+P24A;high_N;N_tot_input;200
+P24A;mid_N_1;N_tot_input;100
+P24A;mid_N_2;N_tot_input;140
+P24A;high_N;N_tot_input;180
+DOK-Langzeit-Systemvergleich;control;id_local;N0
+DOK-Langzeit-Systemvergleich;high_N;id_local;M2
+DOK-Langzeit-Systemvergleich;mid_N_1;id_local;K2
+DOK-Langzeit-Systemvergleich;mid_N_2;id_local;D1
+DOK-Langzeit-Systemvergleich;mid_N_3;id_local;D2
+DOK-Langzeit-Systemvergleich;mid_N_4;id_local;O1
+DOK-Langzeit-Systemvergleich;mid_N_5;id_local;O2
+DOK-Langzeit-Systemvergleich;mid_N_6;id_local;K1
+FAST;low_N_1;id_local;C-IT_CC_halfN
+FAST;mid_N_1;id_local;C-IT_CC_normN
+FAST;low_N_1;id_local;O-IT_CC_halfN
+FAST;mid_N_2;id_local;O-IT_CC_normN
+RELOAD;mid_N_1;id_local;C-IT_none_normN
+RELOAD;mid_N_2;id_local;O-IT_none_normN
